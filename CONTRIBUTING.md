@@ -30,4 +30,4 @@ Changes that are cosmetic in nature and do not add anything substantial to the s
 
 - Ask any question to education@wildcodeschool.com.
 
-Thanks! :heart: :heart: :heart:
+Thanks! :heart: :heart: :heart: 
